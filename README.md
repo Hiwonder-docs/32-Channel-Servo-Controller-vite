@@ -30,7 +30,7 @@ The build artifacts under `projects/` are committed to the repository. Open
 The GitHub Pages direct URL is:
 
 ```text
-https://GITHUB-USERNAME.github.io/32-Channel-Servo-Controller-vite/projects/32-Channel-Servo-Controller/en/latest/
+https://hiwonder-docs.github.io/32-Channel-Servo-Controller-vite/projects/32-Channel-Servo-Controller/en/latest/
 ```
 
 The public-facing URL (via the baota Nginx reverse proxy) is:
